@@ -8,7 +8,7 @@
 
 - 标签/说明书要写哪些要素？中美欧各自要求是什么？
 - 灭菌、再处理、UDI、多语言、符号怎么体现？
-- 手里有强生/捷迈/美敦力等厂商的 IFU，**怎么参考而不侵权**？
+- 需要参考厂商 IFU 时，**怎么借鉴而不侵权**？
 
 ## 三个核心文件
 
@@ -21,7 +21,7 @@ references/
 
 ## 特色：内置版权去敏规范
 
-本机有数千份厂商真实 IFU（DePuy Synthes、Zimmer Biomet、Medtronic、Stryker 等），但它们受版权保护：
+厂商真实 IFU 均受版权保护（无论来自哪家制造商）：
 
 - ❌ 原始 PDF 绝**不进开源仓库**
 - ❌ 不照抄原文、不用商标/产品名/专利图
@@ -47,7 +47,12 @@ references/
 | medxpert-clinical-eval-skill | 临床评价 |
 | medxpert-ai-samd-reg-skill | 医疗AI/软件 |
 | **medxpert-labeling-ifu-skill** | **标签与说明书（本Skill）** |
-| …其余见总 README | 全生命周期 |
+| medxpert-deficiency-reply-skill | 发补回复 |
+| medxpert-hospital-bid-skill | 医院招投标 |
+| medxpert-oem-cmo-skill | OEM/CMO 合规 |
+| medxpert-postmarket-surveillance-skill | 上市后监管 |
+| medxpert-risk-management-skill | 风险管理 |
+| medxpert-test-lab-selection-skill | 检测机构选择 |
 
 ## 许可
 
